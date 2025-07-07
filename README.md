@@ -1,2 +1,1 @@
-# aslia
-A WordPress Theme
+# WordPress Theme Aslia
