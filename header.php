@@ -24,6 +24,5 @@
 <div id="page" class="site">
     <header id="mast-head" class="site-header" role="">
         <?php get_template_part('template-parts/header/nav'); ?>
-        <?php get_template_part('template-parts/content','page'); ?>
     </header>
     <div id="content" class="site-content">
