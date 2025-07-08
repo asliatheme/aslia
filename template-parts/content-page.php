@@ -7,4 +7,4 @@
 */
 
 ?>
-<h1>Content Page</h1>
+<h2>Content Page</h2>
